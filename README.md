@@ -11,7 +11,12 @@
 
 ## 📸 Project Preview
 
-![Totyto Supra Edition Screenshot](./screenshot.png)  
+![Totyto Supra Edition Screenshot](https://github.com/omkar-shinde7031/Toyota-supra-edition/blob/main/Screenshot%202025-07-21%20172501.png?raw=true)  
+<br>
+<br>
+<br>
+![Totyto Supra Edition Screenshot](https://github.com/omkar-shinde7031/Toyota-supra-edition/blob/main/Screenshot%202025-07-21%20172559.png?raw=true)  
+
 
 
 ---
