@@ -1,4 +1,4 @@
-# 🚗 Totyto Supra Edition
+# 🚘 Totyto Supra Edition
 
 **Totyto Supra Edition** is a front-end web project built to showcase the iconic **Toyota Supra**. This project is designed to provide information, visuals, and a sleek user experience that pays tribute to one of the most beloved sports cars in automotive history.
 
