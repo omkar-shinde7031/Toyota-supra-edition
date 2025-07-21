@@ -25,7 +25,7 @@
 
 - **HTML5** – Structured web content  
 - **CSS3** – Responsive and modern styling  
-- **JavaScript** – Interactive features and effects
+- **JavaScript** – Interactive features and animation
 
 ---
 
