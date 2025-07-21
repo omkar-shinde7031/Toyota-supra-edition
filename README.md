@@ -4,15 +4,15 @@
 
 ## 🌐 Live Demo
 
-[🔗 Click here to view the live site](https://omkar-shinde7031.github.io/Toyota-supra-edition/)  
-*(Replace with your actual live link)*
+[🔗 view the live site](https://omkar-shinde7031.github.io/Toyota-supra-edition/)  
+
 
 ---
 
 ## 📸 Project Preview
 
 ![Totyto Supra Edition Screenshot](./screenshot.png)  
-*(Include a screenshot of your homepage or gallery section)*
+
 
 ---
 
