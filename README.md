@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-[🔗 view the live site](https://omkar-shinde7031.github.io/Toyota-supra-edition/)  
+[🔗 view the live site]( https://omkar-shinde7031.github.io/Toyota-supra-edition-project/)  
 
 
 ---
